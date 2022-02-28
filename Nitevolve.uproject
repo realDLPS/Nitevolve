@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{50853FF9-4F1A-0B3C-A342-D4A859D52B95}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Nitevolve",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
